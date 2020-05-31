@@ -1,2 +1,3 @@
 # Portfolio-site
 portfolio site
+Homework Assignment #2 for University of Richmond Coding Bootcamp
