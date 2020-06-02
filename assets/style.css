@@ -1,80 +1,85 @@
 body {
-    background: url("images/concrete-texture.png");
-  } 
+  background: url("images/concrete-texture.png");
+}
 
 #links {
-    border-right: darkgray solid 2px;
+  border-right: darkgray solid 2px;
 }
 
 #top {
-    border-bottom: darkgray solid 4px;
-    background-color: white;
+  border-bottom: darkgray solid 4px;
+  background-color: white;
 }
 
 #brand {
-    background-color: #50C7C7;
+  background-color: #50c7c7;
 }
 
 h1 {
-    font-family: 'Bangers';
-    color: white;
-    margin: 0px;
+  font-family: "Bangers";
+  color: white;
+  margin: 0px;
 }
 
  {
-    padding: 5px;
+  padding: 5px;
 }
 
 .footer {
-    position: fixed;
-    left: 0;
-    height: 100px;
-    bottom: 0;
-    width: 100%;
-    background-color: gray;
-    color: white;
-    text-align: center;
-    border-top: #50C7C7 solid 4px;
- }
+  position: fixed;
+  left: 0;
+  height: 100px;
+  bottom: 0;
+  width: 100%;
+  background-color: gray;
+  color: white;
+  text-align: center;
+  border-top: #50c7c7 solid 4px;
+}
 
- .ftext {
-     padding-top: 40px;
- }
+.ftext {
+  padding-top: 40px;
+}
 
- #bio-para-box{
-    background-color: white; 
-    border: 1px solid #cccccc;
-    width: 960px;
-    height: auto;
-    margin-left: 150px;
-    position: relative;
+#bio-para-box {
+  background-color: white;
+  border: 1px solid #cccccc;
+  width: 960px;
+  height: auto;
+  margin-left: 150px;
+  position: relative;
 }
 
 #about {
-    background-color: white;
-    margin: 20px;
+  background-color: white;
+  margin: 20px;
 }
 
 #aabout {
-    color: black;
-    text-align: center;
+  color: #50c7c7;
+  text-align: center;
+}
+
+#aaabout {
+  color: #50c7c7;
+  text-align: left;
 }
 
 .my-container {
-    height: 500px;
-    margin: 50px 0px 0px 0px;
+  height: 500px;
+  margin: 50px 0px 0px 0px;
 }
 
 .my-col {
-    background-color:white;
-    size: 100%;
+  background-color: white;
+  size: 100%;
 }
 
 #imgg {
-    float: left;
-    padding: 10px;
+  float: left;
+  padding: 10px;
 }
 
 #d {
-    margin: 20px;
+  margin: 20px;
 }
