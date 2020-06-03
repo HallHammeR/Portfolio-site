@@ -90,12 +90,42 @@ h1 {
 }
 
 #social {
-	width: 72px;
-	height: 72px;
+	width: 50px;
+	height: 50px;
 }
 
 #socialbuttons {
 	background-color: white;
 	padding: 20px;
 	margin-top: 20px;
+}
+
+.work {
+	position: relative;
+	float: left;
+	width: 274px;
+	margin: 20px 0 25px;
+	overflow: auto;
+}
+.work:nth-child(even) {
+	margin-right: 40px;
+}
+.work img {
+	width: 100%;
+	border: 0 none;
+	opacity: 0.8;
+}
+.work h3 {
+	position: absolute;
+	bottom: 20px;
+	width: 97.25%;
+	padding: 15px;
+	margin-left: 1.5%;
+	margin-bottom: 0;
+	font-weight: 300;
+	line-height: 30px;
+	color: #fff;
+	text-align: center;
+	background: #50c7c7;
+	border-bottom: 0;
 }
